@@ -1,6 +1,6 @@
 # HR Attrition Management
 
-I have performed this Machne Learning project for analyzing employee attrition in an organization. The project focuses on identifying key factors contributing to employee turnover and leveraging machine learning models to predict attrition.
+I have performed this Machine Learning project for analyzing employee attrition in an organization. The project focuses on identifying key factors contributing to employee turnover and leveraging machine learning models to predict attrition.
 
 ---
 
